@@ -1,0 +1,18 @@
+body {
+  background-color: #2aa0fa;
+}
+main {
+  padding: 10% 30%;
+}
+.card {
+  border: 5px solid #096feb;
+  border-radius: 15px;
+  padding: 15%;
+}
+button {
+  width: 100%;
+}
+hr {
+  margin-top: 2rem;
+  width: 100%;
+}
